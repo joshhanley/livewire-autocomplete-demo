@@ -8,10 +8,11 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
+        "joshhanley/livewire-autocomplete": "^0.1.2",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "livewire/livewire": "^2.4"
